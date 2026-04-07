@@ -1,6 +1,6 @@
 mpc_node:
   ros__parameters:
-    waypoint_csv: "/home/yxjacksn/ese6150/mpc_ws/waypoints.csv"
+    waypoint_csv: "/home/yxjacksn/ese6150/mpc_ws/src/mpc_pkg/data/waypoints.csv"
     horizon: 10
     dt: 0.1
     wheelbase: 0.3302
